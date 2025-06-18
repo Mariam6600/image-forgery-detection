@@ -4,9 +4,4 @@ tensorflow
 numpy
 matplotlib
 scikit-learn
-PillowAdd commentMore actions
-streamlit==1.32.0
-numpy==1.26.4
-tensorflow==2.15.0
-pillow==10.2.0
-gdown==4.7.3
+Pillow 
