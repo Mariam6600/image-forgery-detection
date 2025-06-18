@@ -3,7 +3,7 @@
 This project detects forged images using a dual-input convolutional neural network that analyzes both RGB and Error Level Analysis (ELA) representations to uncover manipulation traces.
 
 ## 📁 Dataset
-- CASIA 2.0 Image Tampering Dataset
+- CASIA 2.0 Dataset
 
 ## 🧠 Model Architecture
 The architecture consists of:
